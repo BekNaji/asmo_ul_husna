@@ -1,5 +1,5 @@
 {
-  "asmo_ul_husna": [
+  [
     { "id": 1, "name": "Alloh", "arabic_name": "الله", "description": "Alloh lafzi «alaha» fe’lidan olingan «iloh» masdariga mansub bo‘lib ma’bud - ibodat qilingan zot - ma’nosini anglatadi." },
     { "id": 2, "name": "Ar-Rahmon", "arabic_name": "الرحمن", "description": "Ulug‘ ne’matlarni beruvchi. Bu sifat faqat Allohga xos bo‘lib, barchaga mehribon ma’nosini anglatadi." },
     { "id": 3, "name": "Ar-Rohiym", "arabic_name": "الرحيم", "description": "Latif ne’matlarni beruvchi. Qiyomat kuni faqat mo‘minlarga rahm qiluvchi ma’nosini anglatadi." },
